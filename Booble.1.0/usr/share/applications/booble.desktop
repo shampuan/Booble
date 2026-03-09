@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Booble
+Comment=Bilgisayarında Boob'la!
+Exec=python3 /usr/share/booble/booble.py
+Icon=boobleicon
+Terminal=false
+Type=Application
+Categories=Utility;Filesystem;
+Keywords=search;find;index;arama;
+StartupNotify=true
