@@ -1,0 +1,17 @@
+Arama sonuçları sayfasından yeniden arama yapıldığında kıs bir süre bekleme oluşuyor. Bu beklemenin bir şekilde kullanıcıya haber verilmesi gerekiyor ki, kullanıcı uygulamanın donmadığını ve herşeyin normal olduğunu anlasın. Bunu da, Geri ve indekslemeyi yeniden başlat butonunun sağına konacak bir bussybar ile yapabiliriz. Mesaj etiketi yazmaya gerek kalmaz. --TAMAM
+
+Ayarlara "Hariç Tut" seçeneği gelmeli, bu seçenek, arama kapsamından hariç tutulmalı, çakışma ve çökme oluşmaması için önlem alınmalıdır. Çünkü tüm kapsam içinde hariç eklemek bazen sorun oluşturabilir. Şu da çok önemli: zaten orada hariç tutulanlar var; onlar arayüzden kaldırılıp, yine geçerli şekilde bırakılmalı. Kullanıcı onlarla oynamamalı ve kurcalamamalı. Orası, zaten varsayılan olarak hariç tutulan sistem klasörleridir ve arkaplanda daimi olarak hariç şekilde tutulmalı ama kullanıcıya gösterilmemelidir. Dolayısıyla; Kullanıcıya bir hariç tutulanlar kısmı sunulmalı, yukarıdaki kurallara göre olmalı. --TAMAM
+
+Tümü, Sadece belgeler, Sadece Görseller, Sadece Videolar, Sadece Sesler şeklinde, Booble yazısı ve arama satırı'nın hemen altına radyo butonu koyarak, mod eklemeliyiz. 
+
+Hakkında menüsü yenilenmeli, sürüm numarası düzeltilmelidir. 
+
+Uygulama, Qt5'den dikkatli bir şekilde Qt6'ya evrilmelidir. 
+
+Uygulama, gettext tabanlı po/mo çeviri altyapısı için hazırlanmalı, tırnak işaretlerinin çökmeye neden olmaması için filtreleme uygulaması yapılmalıdır. 
+
+
+
+
+
+

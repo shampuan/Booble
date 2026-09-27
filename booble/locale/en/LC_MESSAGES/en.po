@@ -1,0 +1,283 @@
+# English translations for Booble package.
+# Copyright (C) 2026 A. Serhat KILIÇOĞLU
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Booble 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 00:41+0300\n"
+"PO-Revision-Date: 2026-09-28 00:41+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: booble.py:403
+msgid "Booble - Masaüstü Arama"
+msgstr "Booble - Desktop Search"
+
+#: booble.py:433
+msgid "Navigasyon"
+msgstr "Navigation"
+
+#: booble.py:439
+msgid "Geri Dön"
+msgstr "Back"
+
+#: booble.py:446
+msgid "İndekslemeyi Yeniden Başlat"
+msgstr "Rebuild Index"
+
+#: booble.py:454
+msgid "&Dosya"
+msgstr "&File"
+
+#: booble.py:456
+msgid "İndekslemeyi Başlat"
+msgstr "Start Indexing"
+
+#: booble.py:463
+msgid "Çıkış"
+msgstr "Exit"
+
+#: booble.py:469
+msgid "&Ayarlar"
+msgstr "&Settings"
+
+#: booble.py:470
+msgid "Seçenekler..."
+msgstr "Options..."
+
+#: booble.py:475
+msgid "&Yardım"
+msgstr "&Help"
+
+#: booble.py:478
+msgid "&Dil / Language"
+msgstr "&Language"
+
+#: booble.py:496
+msgid "Hakkında"
+msgstr "About"
+
+#: booble.py:568
+#, python-brace-format
+msgid "Toplam {count} dosya ve klasör başarıyla indekslendi."
+msgstr "Total {count} files and folders indexed successfully."
+
+#: booble.py:571
+msgid "Booble İndeksleme Tamamlandı"
+msgstr "Booble Indexing Completed"
+
+#: booble.py:593
+msgid "Bilgisayarında Boob'la!"
+msgstr "Boob it on your computer!"
+
+#: booble.py:601
+msgid "Booble'da ara..."
+msgstr "Search in Booble..."
+
+#: booble.py:611 booble.py:662
+msgid "Ara"
+msgstr "Search"
+
+#: booble.py:628
+msgid "Taranıyor:"
+msgstr "Scanning:"
+
+#: booble.py:674
+msgid "Tümü"
+msgstr "All"
+
+#: booble.py:675
+msgid "Sadece belgeler"
+msgstr "Documents only"
+
+#: booble.py:676
+msgid "Sadece Görseller"
+msgstr "Images only"
+
+#: booble.py:677
+msgid "Sadece Videolar"
+msgstr "Videos only"
+
+#: booble.py:678
+msgid "Sadece Sesler"
+msgstr "Audio only"
+
+#: booble.py:787
+#, python-brace-format
+msgid "Yaklaşık {count} sonuç bulundu (Sayfa {current} / {total})"
+msgstr "About {count} results found (Page {current} / {total})"
+
+#: booble.py:808
+msgid "Aramanızla eşleşen dosya bulunamadı."
+msgstr "No files matched your search."
+
+#: booble.py:809
+msgid "Öneri: Farklı anahtar sözcükler deneyin veya indekslemeyi yenileyin."
+msgstr "Suggestion: Try different keywords or refresh indexing."
+
+#: booble.py:853
+msgid "VİDEO"
+msgstr "VIDEO"
+
+#: booble.py:853
+msgid "GÖRSEL"
+msgstr "IMAGE"
+
+#: booble.py:932
+msgid "< Önceki"
+msgstr "< Previous"
+
+#: booble.py:979
+msgid "Sonraki >"
+msgstr "Next >"
+
+#: booble.py:1023
+msgid "Booble"
+msgstr "Booble"
+
+#: booble.py:1023
+msgid "Zaten bir indeksleme işlemi devam ediyor."
+msgstr "An indexing process is already running."
+
+#: booble.py:1036
+msgid "Tarama başlatılıyor..."
+msgstr "Starting scan..."
+
+#: booble.py:1055
+msgid "Aç"
+msgstr "Open"
+
+#: booble.py:1059
+msgid "Bulunduğu Klasörü Aç"
+msgstr "Open Containing Folder"
+
+#: booble.py:1097
+msgid "Dil Değiştirildi / Language Changed"
+msgstr "Language Changed"
+
+#: booble.py:1098
+msgid ""
+"Dil ayarının geçerli olması için Booble uygulamasını yeniden başlatmanız "
+"gerekmektedir.\n"
+"\n"
+"Please restart Booble for the language changes to take effect."
+msgstr "Please restart Booble for the language changes to take effect."
+
+#: booble.py:1106
+msgid "Booble Hakkında"
+msgstr "About Booble"
+
+#: booble.py:1116
+msgid "Masaüstü Yerel Arama Motoru"
+msgstr "Local Desktop Search Engine"
+
+#: booble.py:1117
+msgid "Sürüm:"
+msgstr "Version:"
+
+#: booble.py:1118
+msgid "Lisans:"
+msgstr "License:"
+
+#: booble.py:1119
+msgid "Geliştirici:"
+msgstr "Developer:"
+
+#: booble.py:1120
+msgid ""
+"Booble 2.0, bilgisayarınızdaki dosya, belge ve multimedya içeriklerini "
+"milisaniyeler içinde bulmanızı sağlayan yüksek performanslı, yerel bir arama "
+"motorudur."
+msgstr ""
+"Booble 2.0 is a high-performance local search engine that lets you find files, "
+"documents and multimedia on your computer in milliseconds."
+
+#: booble.py:1121
+msgid "Çok iş parçacıklı (QThread) ve FTS5 tabanlı jet indeksleme"
+msgstr "Multi-threaded (QThread) and FTS5 based blazing-fast indexing"
+
+#: booble.py:1122
+msgid "Resim ve video dosyaları için zengin medya önizlemeleri"
+msgstr "Rich media previews for images and videos"
+
+#: booble.py:1123
+msgid "Belge, görsel, video ve ses filtreleme modları"
+msgstr "Filter modes for documents, images, videos and audio"
+
+#: booble.py:1124
+msgid "Sayfalama (Pagination) ve joker karakter (*.uzantı) desteği"
+msgstr "Pagination and wildcard (*.ext) search support"
+
+#: booble.py:1125
+msgid "Bu program özgür bir yazılımdır ve hiçbir garanti getirmez."
+msgstr "This program is free software and comes with absolutely no warranty."
+
+#: booble.py:1126
+msgid "Telif hakkı © 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Copyright © 2026 - A. Serhat KILIÇOĞLU"
+
+#: booble.py:1167
+msgid "Tamam"
+msgstr "OK"
+
+#: booble.py:1176
+msgid "Booble Seçenekler"
+msgstr "Booble Options"
+
+#: booble.py:1181
+msgid "Tarama Kapsamı"
+msgstr "Scan Scope"
+
+#: booble.py:1184
+msgid "Tüm Sistem (/)"
+msgstr "Entire System (/)"
+
+#: booble.py:1185
+msgid "Özel Klasör"
+msgstr "Custom Folder"
+
+#: booble.py:1200
+msgid "Gözat..."
+msgstr "Browse..."
+
+#: booble.py:1203
+msgid "Tarama Klasörü Seç"
+msgstr "Select Scan Folder"
+
+#: booble.py:1215
+msgid "Kullanıcı Hariç Tutulan Klasörler"
+msgstr "User Excluded Folders"
+
+#: booble.py:1219
+msgid "Taramaya dahil edilmeyecek klasörler:"
+msgstr "Folders to exclude from scanning:"
+
+#: booble.py:1237
+msgid "Hariç Tutulacak Klasörü Seç"
+msgstr "Select Folder to Exclude"
+
+#: booble.py:1245
+msgid "Uyarı"
+msgstr "Warning"
+
+#: booble.py:1245
+msgid "Tüm sistem kök dizini (/) hariç tutulamaz."
+msgstr "The root directory (/) cannot be excluded."
+
+#: booble.py:1252
+msgid "Çakışma Uyarısı"
+msgstr "Conflict Warning"
+
+#: booble.py:1252
+msgid "Taramak istediğiniz ana klasörün kendisini hariç tutamazsınız."
+msgstr "You cannot exclude the main folder you want to scan."
+
+#: booble.py:1272
+msgid "Ayarları Kaydet"
+msgstr "Save Settings"

@@ -1,0 +1,283 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 00:41+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: booble.py:403
+msgid "Booble - Masaüstü Arama"
+msgstr ""
+
+#: booble.py:433
+msgid "Navigasyon"
+msgstr ""
+
+#: booble.py:439
+msgid "Geri Dön"
+msgstr ""
+
+#: booble.py:446
+msgid "İndekslemeyi Yeniden Başlat"
+msgstr ""
+
+#: booble.py:454
+msgid "&Dosya"
+msgstr ""
+
+#: booble.py:456
+msgid "İndekslemeyi Başlat"
+msgstr ""
+
+#: booble.py:463
+msgid "Çıkış"
+msgstr ""
+
+#: booble.py:469
+msgid "&Ayarlar"
+msgstr ""
+
+#: booble.py:470
+msgid "Seçenekler..."
+msgstr ""
+
+#: booble.py:475
+msgid "&Yardım"
+msgstr ""
+
+#: booble.py:478
+msgid "&Dil / Language"
+msgstr ""
+
+#: booble.py:496
+msgid "Hakkında"
+msgstr ""
+
+#: booble.py:568
+#, python-brace-format
+msgid "Toplam {count} dosya ve klasör başarıyla indekslendi."
+msgstr ""
+
+#: booble.py:571
+msgid "Booble İndeksleme Tamamlandı"
+msgstr ""
+
+#: booble.py:593
+msgid "Bilgisayarında Boob'la!"
+msgstr ""
+
+#: booble.py:601
+msgid "Booble'da ara..."
+msgstr ""
+
+#: booble.py:611 booble.py:662
+msgid "Ara"
+msgstr ""
+
+#: booble.py:628
+msgid "Taranıyor:"
+msgstr ""
+
+#: booble.py:674
+msgid "Tümü"
+msgstr ""
+
+#: booble.py:675
+msgid "Sadece belgeler"
+msgstr ""
+
+#: booble.py:676
+msgid "Sadece Görseller"
+msgstr ""
+
+#: booble.py:677
+msgid "Sadece Videolar"
+msgstr ""
+
+#: booble.py:678
+msgid "Sadece Sesler"
+msgstr ""
+
+#: booble.py:787
+#, python-brace-format
+msgid "Yaklaşık {count} sonuç bulundu (Sayfa {current} / {total})"
+msgstr ""
+
+#: booble.py:808
+msgid "Aramanızla eşleşen dosya bulunamadı."
+msgstr ""
+
+#: booble.py:809
+msgid "Öneri: Farklı anahtar sözcükler deneyin veya indekslemeyi yenileyin."
+msgstr ""
+
+#: booble.py:853
+msgid "VİDEO"
+msgstr ""
+
+#: booble.py:853
+msgid "GÖRSEL"
+msgstr ""
+
+#: booble.py:932
+msgid "< Önceki"
+msgstr ""
+
+#: booble.py:979
+msgid "Sonraki >"
+msgstr ""
+
+#: booble.py:1023
+msgid "Booble"
+msgstr ""
+
+#: booble.py:1023
+msgid "Zaten bir indeksleme işlemi devam ediyor."
+msgstr ""
+
+#: booble.py:1036
+msgid "Tarama başlatılıyor..."
+msgstr ""
+
+#: booble.py:1055
+msgid "Aç"
+msgstr ""
+
+#: booble.py:1059
+msgid "Bulunduğu Klasörü Aç"
+msgstr ""
+
+#: booble.py:1097
+msgid "Dil Değiştirildi / Language Changed"
+msgstr ""
+
+#: booble.py:1098
+msgid ""
+"Dil ayarının geçerli olması için Booble uygulamasını yeniden başlatmanız "
+"gerekmektedir.\n"
+"\n"
+"Please restart Booble for the language changes to take effect."
+msgstr ""
+
+#: booble.py:1106
+msgid "Booble Hakkında"
+msgstr ""
+
+#: booble.py:1116
+msgid "Masaüstü Yerel Arama Motoru"
+msgstr ""
+
+#: booble.py:1117
+msgid "Sürüm:"
+msgstr ""
+
+#: booble.py:1118
+msgid "Lisans:"
+msgstr ""
+
+#: booble.py:1119
+msgid "Geliştirici:"
+msgstr ""
+
+#: booble.py:1120
+msgid ""
+"Booble 2.0, bilgisayarınızdaki dosya, belge ve multimedya içeriklerini "
+"milisaniyeler içinde bulmanızı sağlayan yüksek performanslı, yerel bir arama "
+"motorudur."
+msgstr ""
+
+#: booble.py:1121
+msgid "Çok iş parçacıklı (QThread) ve FTS5 tabanlı jet indeksleme"
+msgstr ""
+
+#: booble.py:1122
+msgid "Resim ve video dosyaları için zengin medya önizlemeleri"
+msgstr ""
+
+#: booble.py:1123
+msgid "Belge, görsel, video ve ses filtreleme modları"
+msgstr ""
+
+#: booble.py:1124
+msgid "Sayfalama (Pagination) ve joker karakter (*.uzantı) desteği"
+msgstr ""
+
+#: booble.py:1125
+msgid "Bu program özgür bir yazılımdır ve hiçbir garanti getirmez."
+msgstr ""
+
+#: booble.py:1126
+msgid "Telif hakkı © 2026 - A. Serhat KILIÇOĞLU"
+msgstr ""
+
+#: booble.py:1167
+msgid "Tamam"
+msgstr ""
+
+#: booble.py:1176
+msgid "Booble Seçenekler"
+msgstr ""
+
+#: booble.py:1181
+msgid "Tarama Kapsamı"
+msgstr ""
+
+#: booble.py:1184
+msgid "Tüm Sistem (/)"
+msgstr ""
+
+#: booble.py:1185
+msgid "Özel Klasör"
+msgstr ""
+
+#: booble.py:1200
+msgid "Gözat..."
+msgstr ""
+
+#: booble.py:1203
+msgid "Tarama Klasörü Seç"
+msgstr ""
+
+#: booble.py:1215
+msgid "Kullanıcı Hariç Tutulan Klasörler"
+msgstr ""
+
+#: booble.py:1219
+msgid "Taramaya dahil edilmeyecek klasörler:"
+msgstr ""
+
+#: booble.py:1237
+msgid "Hariç Tutulacak Klasörü Seç"
+msgstr ""
+
+#: booble.py:1245
+msgid "Uyarı"
+msgstr ""
+
+#: booble.py:1245
+msgid "Tüm sistem kök dizini (/) hariç tutulamaz."
+msgstr ""
+
+#: booble.py:1252
+msgid "Çakışma Uyarısı"
+msgstr ""
+
+#: booble.py:1252
+msgid "Taramak istediğiniz ana klasörün kendisini hariç tutamazsınız."
+msgstr ""
+
+#: booble.py:1272
+msgid "Ayarları Kaydet"
+msgstr ""

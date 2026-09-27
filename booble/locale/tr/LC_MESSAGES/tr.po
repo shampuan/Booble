@@ -1,0 +1,210 @@
+# Turkish translations for Booble package.
+# Copyright (C) 2026 A. Serhat KILIÇOĞLU
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Booble 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-28 00:41+0300\n"
+"PO-Revision-Date: 2026-09-28 00:41+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Booble - Desktop Search"
+msgstr "Booble - Masaüstü Arama"
+
+msgid "Navigation"
+msgstr "Navigasyon"
+
+msgid "Back"
+msgstr "Geri Dön"
+
+msgid "Rebuild Index"
+msgstr "İndekslemeyi Yeniden Başlat"
+
+msgid "&File"
+msgstr "&Dosya"
+
+msgid "Start Indexing"
+msgstr "İndekslemeyi Başlat"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "&Settings"
+msgstr "&Ayarlar"
+
+msgid "Options..."
+msgstr "Seçenekler..."
+
+msgid "&Help"
+msgstr "&Yardım"
+
+msgid "&Dil / Language"
+msgstr "&Dil / Language"
+
+msgid "About"
+msgstr "Hakkında"
+
+#, python-brace-format
+msgid "Total {count} files and folders indexed successfully."
+msgstr "Toplam {count} dosya ve klasör başarıyla indekslendi."
+
+msgid "Indexing Completed"
+msgstr "Booble İndeksleme Tamamlandı"
+
+msgid "Boob it on your computer!"
+msgstr "Bilgisayarında Boob'la!"
+
+msgid "Search in Booble..."
+msgstr "Booble'da ara..."
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Scanning:"
+msgstr "Taranıyor:"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "Documents only"
+msgstr "Sadece belgeler"
+
+msgid "Images only"
+msgstr "Sadece Görseller"
+
+msgid "Videos only"
+msgstr "Sadece Videolar"
+
+msgid "Audio only"
+msgstr "Sadece Sesler"
+
+#, python-brace-format
+msgid "About {count} results found (Page {current} / {total})"
+msgstr "Yaklaşık {count} sonuç bulundu (Sayfa {current} / {total})"
+
+msgid "No files matched your search."
+msgstr "Aramanızla eşleşen dosya bulunamadı."
+
+msgid "Suggestion: Try different keywords or re-index your system."
+msgstr "Öneri: Farklı anahtar sözcükler deneyin veya indekslemeyi yenileyin."
+
+msgid "VIDEO"
+msgstr "VİDEO"
+
+msgid "IMAGE"
+msgstr "GÖRSEL"
+
+msgid "< Previous"
+msgstr "< Önceki"
+
+msgid "Next >"
+msgstr "Sonraki >"
+
+msgid "Booble"
+msgstr "Booble"
+
+msgid "An indexing process is already running."
+msgstr "Zaten bir indeksleme işlemi devam ediyor."
+
+msgid "Starting scan..."
+msgstr "Tarama başlatılıyor..."
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open Containing Folder"
+msgstr "Bulunduğu Klasörü Aç"
+
+msgid "Language Changed"
+msgstr "Dil Değiştirildi"
+
+msgid "Please restart Booble for the language changes to take effect."
+msgstr "Dil ayarının geçerli olması için Booble uygulamasını yeniden başlatmanız gerekmektedir."
+
+msgid "About Booble"
+msgstr "Booble Hakkında"
+
+msgid "Local Desktop Search Engine"
+msgstr "Masaüstü Yerel Arama Motoru"
+
+msgid "Version:"
+msgstr "Sürüm:"
+
+msgid "License:"
+msgstr "Lisans:"
+
+msgid "Developer:"
+msgstr "Geliştirici:"
+
+msgid "Booble 2.0 is a high-performance local search engine that lets you find files, documents and multimedia on your computer in milliseconds."
+msgstr "Booble 2.0, bilgisayarınızdaki dosya, belge ve multimedya içeriklerini milisaniyeler içinde bulmanızı sağlayan yüksek performanslı, yerel bir arama motorudur."
+
+msgid "Multi-threaded (QThread) and FTS5 based blazing-fast indexing"
+msgstr "Çok iş parçacıklı (QThread) ve FTS5 tabanlı jet indeksleme"
+
+msgid "Rich media previews for images and videos"
+msgstr "Resim ve video dosyaları için zengin medya önizlemeleri"
+
+msgid "Filter modes for documents, images, videos and audio"
+msgstr "Belge, görsel, video ve ses filtreleme modları"
+
+msgid "Pagination and wildcard (*.ext) search support"
+msgstr "Sayfalama (Pagination) ve joker karakter (*.uzantı) desteği"
+
+msgid "This program is free software and comes with absolutely no warranty."
+msgstr "Bu program özgür bir yazılımdır ve hiçbir garanti getirmez."
+
+msgid "Copyright © 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Telif hakkı © 2026 - A. Serhat KILIÇOĞLU"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Booble Options"
+msgstr "Booble Seçenekler"
+
+msgid "Scan Scope"
+msgstr "Tarama Kapsamı"
+
+msgid "Entire System (/)"
+msgstr "Tüm Sistem (/)"
+
+msgid "Custom Folder"
+msgstr "Özel Klasör"
+
+msgid "Browse..."
+msgstr "Gözat..."
+
+msgid "Select Scan Folder"
+msgstr "Tarama Klasörü Seç"
+
+msgid "User Excluded Folders"
+msgstr "Kullanıcı Hariç Tutulan Klasörler"
+
+msgid "Folders to exclude from scanning:"
+msgstr "Taramaya dahil edilmeyecek klasörler:"
+
+msgid "Select Folder to Exclude"
+msgstr "Hariç Tutulacak Klasörü Seç"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "The root directory (/) cannot be excluded."
+msgstr "Tüm sistem kök dizini (/) hariç tutulamaz."
+
+msgid "Conflict Warning"
+msgstr "Çakışma Uyarısı"
+
+msgid "You cannot exclude the main folder you want to scan."
+msgstr "Taramak istediğiniz ana klasörün kendisini hariç tutamazsınız."
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
